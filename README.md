@@ -7,29 +7,22 @@ This repository contains resources for conducting data analysis using various da
 ## Files Included
 
 1. **CSV Data Files**: 
-   - [`data1.csv`](data/data1.csv): Description of what this dataset contains and its relevance.
-   - [`data2.csv`](data/data2.csv): Description of what this dataset contains and its relevance.
-   - [`data3.csv`](data/data3.csv): Description of what this dataset contains and its relevance.
-   - [`data4.csv`](data/data4.csv): Description of what this dataset contains and its relevance.
-   - [`data5.csv`](data/data5.csv): Description of what this dataset contains and its relevance.
-
+   - [`2019_total_hunger_index_data.csv`](2019_total_hunger_index_data.csv): Merged total 2019 data
+   - [`2020_total_hunger_index_data.csv`](2020_total_hunger_index_data.csv): Merged total 2020 data
+   - [`2021_total_hunger_index_data.csv`](2021_total_hunger_index_data.csv): Merged total 2021 data
+   - [`Adult_literacy.csv`](Adult_literacy.csv): Web scraped data from wikipeadia on adult literacy rate in each country
+   - [`Countries_list.csv`](Countries_list.csv): It contain undernourishment rate in each country
+   - [`economy.csv`](economy.csv): It contains country economies GDP per capita
 2. **Jupyter Notebooks**:
-   - [`data_cleaning.ipynb`](notebooks/data_cleaning.ipynb): This notebook includes code for cleaning and preparing data for analysis. It handles missing values, data transformation, and other preprocessing tasks.
-   - [`data_analysis.ipynb`](notebooks/data_analysis.ipynb): This notebook contains code for performing data analysis, including statistical tests, visualizations, and any specific analytical methods used.
+   - [`data_collection.ipynb`](data_collection.ipynb): This notebook includes code for cleaning and preparing data for analysis. It handles missing values, data transformation, and other preprocessing tasks.
+   - [`data_analysis.ipynb`](data_analysis.ipynb): This notebook contains code for performing data analysis, including statistical tests, visualizations, and any specific analytical methods used.
 
 3. **Final Report**:
-   - [`final_report.pdf`](reports/final_report.pdf): A comprehensive report summarizing the findings from the analysis. This includes methodology, results, conclusions, and any relevant visualizations or tables.
+   - [`final_report.pdf`](final_report.pdf): A comprehensive report summarizing the findings from the analysis. This includes methodology, results, conclusions, and any relevant visualizations or tables.
 
 ## How to Use
 
-1. **Setup**:
-   - Ensure you have the required Python libraries installed. You can use `pip install -r requirements.txt` if a `requirements.txt` file is provided, or manually install libraries such as `pandas`, `numpy`, `matplotlib`, `seaborn`, `jupyter`, etc.
-
-2. **Running the Notebooks**:
-   - Open [`data_cleaning.ipynb`](notebooks/data_cleaning.ipynb) in Jupyter Notebook or JupyterLab. Execute the cells to clean and preprocess the data.
-   - After cleaning, open [`data_analysis.ipynb`](notebooks/data_analysis.ipynb) and run the cells to perform the analysis and generate insights.
-
-3. **Reviewing the Report**:
+**Reviewing the Report**:
    - Open [`final_report.pdf`](reports/final_report.pdf) to review the comprehensive analysis and findings.
 
 ## Project Structure
