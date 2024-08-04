@@ -19,6 +19,10 @@ This repository contains resources for conducting data analysis using various da
 
 3. **Final Report**:
    - [`Global hunger data report.pdf`](Global hunger data report.pdf): A comprehensive report summarizing the findings from the analysis. This includes methodology, results, conclusions, and any relevant visualizations or tables.
+  
+3. **interactive Dashboard**:
+   - To see the interactive dashboard for this analysis check out this link: https://global-hunger-dash-app.onrender.com/
+
 
 ## How to Use
 
